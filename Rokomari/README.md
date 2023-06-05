@@ -6,7 +6,7 @@ Technology Used
 <li>IDE: PyCharm</li>
 </ul>
 The Steps Executed in these Automation are: <br>
-TestCase 01: rokomari_T01_homepage
+## TestCase 01: rokomari_T01_homepage
 <ul>
   <li>Open Chrome browser</li>
   <li>Go to Rokomari Homepage URL</li>
@@ -26,6 +26,15 @@ TestCase 02: rokomari_T02_login
   <li>Verify the title</li>
   <li>Close the window</li>
 <ul> <br>
+TestCase 01: rokomari_T01_homepage
+<ul>
+  <li>Open Chrome browser</li>
+  <li>Go to Rokomari Homepage URL</li>
+  <li>Maximize the browser window</li>
+  <li>Get the page title</li>
+  <li>Verify the title</li>
+  <li>Close the window</li>
+ </ul> <br>
 TestCase 03: rokomari_T03_search_item
 <ul>
   <li>Open Chrome browser</li>
