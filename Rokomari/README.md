@@ -29,20 +29,29 @@ TestCase 02: rokomari_T02_login
 
  TestCase 03: rokomari_T03_search_item
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Open Chrome browser</li>
+  <li>Go to Rokomari Homepage URL</li>
+  <li>Maximize the browser window</li>
+  <li>Click to Sign in</li>
+  <li>Set Phone Number then click to Next</li>
+  <li>Set Password then click to login</li>
+  <li>Enter a product name in search box</li>
+  <li>Click to search icon</li>
+  <li>Verify the searching result throug text verification</li>
+  <li>Close the window</li>
 <ul>
   
  TestCase 04: rokomari_T04_item_add_to_cart
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Open Chrome browser</li>
+  <li>Go to Rokomari Homepage URL</li>
+  <li>Maximize the browser window</li>
+  <li>Click to Sign in</li>
+  <li>Set Phone Number then click to Next</li>
+  <li>Set Password then click to login</li>
+  <li>Enter a product name in search box</li>
+  <li>Click to search icon</li>
+  <li>Click to add to cart</li>
+  <li>Click to cart icon</li>
+  <li>Cloase the window</li>
 <ul>
