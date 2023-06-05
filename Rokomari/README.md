@@ -15,3 +15,4 @@ TestCase 01: rokomari_T01_homepage
   <li>Verify the title</li>
   <li>Close the window</li>
  </ul>
+TestCase 01: rokomari_T02_login
