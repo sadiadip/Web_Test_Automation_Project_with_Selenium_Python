@@ -25,8 +25,7 @@ TestCase 02: rokomari_T02_login
   <li>Set Password then click to login</li>
   <li>Verify the title</li>
   <li>Close the window</li>
-<ul><br>
-
+<ul> <br>
  TestCase 03: rokomari_T03_search_item
 <ul>
   <li>Open Chrome browser</li>
@@ -39,8 +38,7 @@ TestCase 02: rokomari_T02_login
   <li>Click to search icon</li>
   <li>Verify the searching result throug text verification</li>
   <li>Close the window</li>
-<ul><br>
-  
+<ul> <br>
  TestCase 04: rokomari_T04_item_add_to_cart
 <ul>
   <li>Open Chrome browser</li>
