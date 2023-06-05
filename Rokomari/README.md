@@ -1,9 +1,9 @@
-## [@Rokomari](https://www.rokomari.com/book) <br>
+## [@Rokomari](https://www.rokomari.com/book) Test Automation using Selenium Python
 ## Technology Used
 - Test Tool: Selenium Webdriver
 - Language: Python
-- IDE: PyCharm</li>
-## The Steps Executed in these Automation are: <br>
+- IDE: PyCharm
+## The Steps Executed in these Automation are: 
 ## TestCase 01: rokomari_T01_homepage
 - Open Chrome browser
 - Go to Rokomari Homepage URL
