@@ -6,7 +6,7 @@ Technology Used
 <li>IDE: PyCharm</li>
 </ul>
 The Steps Executed in these Automation are: <br>
-## TestCase 01: rokomari_T01_homepage
+##TestCase 01: rokomari_T01_homepage
 <ul>
   <li>Open Chrome browser</li>
   <li>Go to Rokomari Homepage URL</li>
