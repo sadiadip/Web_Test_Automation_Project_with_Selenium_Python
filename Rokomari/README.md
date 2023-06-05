@@ -38,7 +38,7 @@ TestCase 03: rokomari_T03_search_item
   <li>Click to search icon</li>
   <li>Verify the searching result throug text verification</li>
   <li>Close the window</li>
-<ul> <br>
+</ul> <br>
 TestCase 04: rokomari_T04_item_add_to_cart
 <ul>
   <li>Open Chrome browser</li>
@@ -52,4 +52,4 @@ TestCase 04: rokomari_T04_item_add_to_cart
   <li>Click to add to cart</li>
   <li>Click to cart icon</li>
   <li>Cloase the window</li>
-<ul>
+</ul>
