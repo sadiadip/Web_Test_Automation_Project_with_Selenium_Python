@@ -22,7 +22,7 @@
 - Click Submit Button
 - Verify Register
 - Close the window
-## TestCase 03: Testcase_02_Refresh
+## TestCase 03: Testcase_03_Refresh
 - Open Chrome browser
 - Go to Automation Demo Site Register URL
 - Maximize the browser window
