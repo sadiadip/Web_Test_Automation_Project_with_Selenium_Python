@@ -1,8 +1,8 @@
 ## [@Automation Demo Site](https://demo.automationtesting.in/Register.html) Test Automation using Selenium Python 
 ## Technology Used
 - Test Tool: Selenium Webdriver
-- - Language: Python 
-- - IDE: PyCharm 
+- Language: Python 
+- IDE: PyCharm 
 ## The Steps Executed in these Automation are:
 ## TestCase 01: Testcase_01_homepage
 - Open Chrome browser
