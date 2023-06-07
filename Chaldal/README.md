@@ -31,7 +31,7 @@
 - Close the window
 ## TestCase 04: chaldal_T04_item_add_to_cart
 - Open Chrome browser
-- Go to Rokomari Homepage URL
+- Go to Chaldal Homepage URL
 - Maximize the browser window
 - Click to Sign in
 - Set Phone Number then click to login
