@@ -13,7 +13,7 @@
 - Close the window
 ## TestCase 02: chaldal_T02_login
 - Open Chrome browser
-- Go to Rokomari Homepage URL
+- Go to Chaldal Homepage URL
 - Maximize the browser window
 - Click to Sign in
 - Set Phone Number then click to login
@@ -21,7 +21,7 @@
 - Close the window
 ## TestCase 03: chaldal_T03_search_item
 - Open Chrome browser
-- Go to Rokomari Homepage URL
+- Go to Chaldal Homepage URL
 - Maximize the browser window
 - Click to Sign in
 - Set Phone Number then click to login
