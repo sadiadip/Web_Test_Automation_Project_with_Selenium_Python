@@ -31,7 +31,7 @@
 - Click to search icon
 - Verify the searching result
 - Close the window
-## TestCase 04: Daraz_T04_item add to cart
+## TestCase 04: Daraz_T04_item_add_to_cart
 - Open Chrome browser
 - Go to Daraz Homepage URL
 - Maximize the browser window
